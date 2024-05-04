@@ -1,0 +1,15 @@
+{
+  "name": "hexo-processor-linkedin-data",
+  "version": "1.0.0",
+  "description": "Hexo plugin to process LinkedIn Archieved Data into post contents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cytrogen",
+  "license": "ISC",
+  "dependencies": {
+    "hexo-fs": "v4.1.3",
+    "papaparse": "v5.4.1"
+  }
+}
